@@ -1,5 +1,26 @@
-# 2nd-Assingnment
-2nd assignment of tutedude python course
+# 2nd-Assingnment- 1st task 
+#Task 1
+
+⚙️ Functionality
+
+This Python program checks whether a given number is Even or Odd.
+
+The program takes an integer input from the user.
+
+It uses the modulo operator (%) to check the remainder when the number is divided by 2.
+
+If the remainder is 0, the number is Even.
+
+Otherwise, the number is Odd.
+
+The result is displayed to the user with an appropriate message.
+
+
+
+
+
+# 2nd-Assingnment- 2nd task 
+#Task 2
 
 Sum of Numbers from 1 to 50
 
